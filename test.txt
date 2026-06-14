@@ -1,3 +1,7 @@
 "bonjour" 
 1er ligne 
+<<<<<<< HEAD
 "version B de la ligne" 
+=======
+"version A de la ligne" 
+>>>>>>> branche-a
