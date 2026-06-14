@@ -1,2 +1,3 @@
 "bonjour" 
 1er ligne 
+"version B de la ligne" 
